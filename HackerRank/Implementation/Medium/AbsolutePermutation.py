@@ -1,19 +1,6 @@
 # link
 # https://www.hackerrank.com/challenges/absolute-permutation/problem
 
-# python HackerRank/Implementation/Medium/AbsolutePermutation.py 
-
-# Sample Input
-# 3
-# 2 1
-# 3 0
-# 3 2
-
-# Sample Output
-# 2 1
-# 1 2 3
-# -1
-
 #!/bin/python3
 
 # Complete the absolutePermutation function below.
