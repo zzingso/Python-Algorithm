@@ -1,7 +1,6 @@
 # link
 # https://www.hackerrank.com/challenges/absolute-permutation/problem
 
-
 # python HackerRank/Implementation/Medium/AbsolutePermutation.py 
 
 # Sample Input
